@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\DistanceFinder\DistanceFinder\obj\Debug\DistanceFinder.csprojResolveAssemblyReference.cache
+C:\Users\Alex\source\repos\DistanceFinder\DistanceFinder\obj\Debug\DistanceFinder.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\DistanceFinder\DistanceFinder\bin\Debug\DistanceFinder.exe.config
+C:\Users\Alex\source\repos\DistanceFinder\DistanceFinder\bin\Debug\DistanceFinder.exe
+C:\Users\Alex\source\repos\DistanceFinder\DistanceFinder\bin\Debug\DistanceFinder.pdb
+C:\Users\Alex\source\repos\DistanceFinder\DistanceFinder\obj\Debug\DistanceFinder.exe
+C:\Users\Alex\source\repos\DistanceFinder\DistanceFinder\obj\Debug\DistanceFinder.pdb
