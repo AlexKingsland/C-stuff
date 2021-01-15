@@ -1,4 +1,4 @@
-# CSharpStuff
+# medipath testbed
 
 This branch contains my testbed when developing medipath for a school project
 
